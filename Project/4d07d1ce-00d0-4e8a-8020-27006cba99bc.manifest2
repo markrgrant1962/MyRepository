@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="HMI_PLCCODE" id="4d07d1ce-00d0-4e8a-8020-27006cba99bc" trackingId="cbba65e1-bc10-4150-a96f-233cd8cf77c0" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="HMI" />
+      <ApplicationFeature name="NA5-7W001☐Version:1.08" />
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="SetUnit NJ501-1500 Ver. 1.16" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>
